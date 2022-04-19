@@ -7,4 +7,4 @@ I will need to learn:
 - how to use this for release notes eventually. 
 - Do I even need to do this? Do I just write the thing and be dome with it?
 
-##Here's an H2 for the fun of it!
+## Here's an H2 for the fun of it!
